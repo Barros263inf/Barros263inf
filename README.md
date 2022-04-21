@@ -32,7 +32,7 @@
 </div>
 <br>
 	
-## Tecnologias que ultilizo no dia a dia!🛠️
+## Tecnologias do dia a dia!🛠️
 <br>
 <div align="center">
 	<img 
