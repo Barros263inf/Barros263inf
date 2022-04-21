@@ -1,4 +1,4 @@
-## Olá, eu sou Daniel Barros!
+## Olá, eu sou Daniel Barros!🤘
 <!--
 	Contagem de visitas
 -->
@@ -23,14 +23,12 @@
 	
 ## GitHub Analytics⚙️
 <br>
-<div width="100%">
+<div width="100%" align="center">
 	<a href="https://github.com/Barros263inf">
-  	<img 
-	     width="100%"
-	     height="250em"
+  	<img
+	     height="350em"
 	     alt="GitHub Analytics"
-	     src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-	/>
+	     src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 	
