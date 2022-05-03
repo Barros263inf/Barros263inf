@@ -4,6 +4,7 @@
 -->
 
 <div align="center">
+	Transformar através do conhecimento! Atualmente estudando desenvolvimento Full-Stack Web | React.js | Node.js<br>
 	Olá, você e mais
 	<img
 	     alt="contador de visitas"
