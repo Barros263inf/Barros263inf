@@ -1,20 +1,14 @@
-## Olá, eu sou Daniel Barros!🤘
-<!--
-	Contagem de visitas
--->
+<div align="center">
+
+# 🤘 Olá, eu sou Daniel Barros! 🤘
+
+</div>
+
+
 
 <div align="center">
-	Transformar através do conhecimento! Atualmente estudando desenvolvimento Full-Stack Web | React.js | Node.js<br>
-	Olá, você e mais
-	<img
-	     alt="contador de visitas"
-	     src="https://profile-counter.glitch.me/Barros263inf/count.svg"
-	/>
-	pessoas me visitaram no GitHub
-	<br>
-	<br>
-	Seja bem vindo!😃
-</div
+	Transformar através do conhecimento! Atualmente estudando desenvolvimento Full-Stack Web | React.js | Node.js
+ </div>
 	
 <br>
 	
@@ -22,18 +16,18 @@
 	GitHub Stats from: https://github.com/anuraghazra/github-readme-stats (Link do repositório)
 -->
 	
-## GitHub Analytics⚙️
+## GitHub Analytics ⚙️
 <br>
 <div width="100%" align="center">
 	<a href="https://github.com/Barros263inf">
   	<img
 	     height="350em"
 	     alt="GitHub Analytics"
-	     src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	     src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 </div>
 <br>
 	
-## Tecnologias do dia a dia!🛠️
+## Tecnologias do dia a dia! 🛠️
 <br>
 <div align="center">
 	<img 
