@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
 
 # 🤘 Olá, sou Daniel Barros! 🤘 <br> Bem vindo ao meu repositório
 
@@ -42,23 +42,22 @@ Olá! Tenho 22 anos, atualmente moro em São Paulo. Estudando programação nas 
 <div id="my_technologies" style="
 gap:1rem;
 display:flex;
-flex-grow: 1;
 flex-flow:row wrap;
 align-items:center;
 justify-content:center;
 ">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: min(30%,50px)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: min(30%,50px)" abbr="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: min(30%,50px)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: min(30%,50px)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: min(30%,50px)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: min(30%,50px)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:50px"/>
   
 
 </div>
@@ -73,7 +72,7 @@ gap:.5rem;
 display:flex;
 flex-grow: 1;
 align-items:center;
-flex-flow:row wrap;
+flex-flow:row nowrap;
 justify-content:center;
 ">
 
@@ -92,7 +91,7 @@ justify-content:center;
 gap:1rem;
 display:flex;
 align-items:center;
-flex-flow:row wrap;
+flex-flow:row nowrap;
 justify-content:center;
 ">
 
