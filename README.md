@@ -39,7 +39,7 @@ Olá! Tenho 22 anos, atualmente moro em São Paulo. Estudando programação nas 
 
 ## 💻 Tecnologias
 
-<div id="my_technologies" style="
+<div id="my_technologies" align="center" style="
 gap:1rem;
 display:flex;
 flex-flow:row wrap;
@@ -47,18 +47,13 @@ align-items:center;
 justify-content:center;
 ">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:50px"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:50px"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:80px"/>
 
 </div>
 
@@ -67,7 +62,7 @@ justify-content:center;
 
 ## ⚙️ GitHub Analytics
 
-<div id="analytics" style="
+<div id="analytics" align="center" style="
 gap:.5rem;
 display:flex;
 flex-grow: 1;
@@ -76,10 +71,8 @@ flex-flow:row nowrap;
 justify-content:center;
 ">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barros263inf&layout=demo&show_icons=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=radical" style="height:250px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros263inf&layout=demo&show_icons=false&theme=radical" style="height:250px"/>
 
 </div>
 
@@ -87,20 +80,17 @@ justify-content:center;
 
 ## 💬 Fale comigo
 
-<div id="contact" style="
-gap:1rem;
+<div id="contact" align="center" style="
+gap:20px;
 display:flex;
 align-items:center;
 flex-flow:row nowrap;
 justify-content:center;
 ">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-barros63/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielsilva2690/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barros263inf@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55944280942)
+<a href="https://www.linkedin.com/in/daniel-barros63/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:40px"/></a>
+<a href="https://www.instagram.com/danielsilva2690/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height:40px"/></a>
+<a href="mailto:barros263inf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:40px"/></a>
+<a href="https://wa.me/+55944280942" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height:40px"/></a>
 
 </div>
