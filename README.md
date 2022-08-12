@@ -71,8 +71,8 @@ flex-flow:row nowrap;
 justify-content:center;
 ">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=radical" style="height:250px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros263inf&layout=demo&show_icons=false&theme=radical" style="height:250px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=radical" style="height:250px"/>
 
 </div>
 
