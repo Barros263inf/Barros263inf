@@ -13,7 +13,7 @@
 </span>
 
 <div id="about_me" style="text-align:justify">
-Olá! Tenho 22 anos, atualmente moro em São Paulo.
+Olá! Tenho 23 anos, atualmente moro em São Paulo.
 
 Estudando programação nas horas livres e seguindo uma trilha para me tornar um desenvolvedor!
 </div>
@@ -25,7 +25,7 @@ Estudando programação nas horas livres e seguindo uma trilha para me tornar um
 
 <span style="color:">
 
-## 🎯 Metas para 2022
+## 🎯 Metas para 2023
 
 </span>
 
