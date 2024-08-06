@@ -13,7 +13,7 @@
 </span>
 
 <div id="about_me" style="text-align:justify">
-Olá! Tenho 23 anos, atualmente moro em São Paulo.
+Olá! Tenho 24 anos, atualmente moro em São Paulo.
 
 Estudando programação nas horas livres e seguindo uma trilha para me tornar um desenvolvedor!
 </div>
@@ -22,10 +22,11 @@ Estudando programação nas horas livres e seguindo uma trilha para me tornar um
 
 - 👨‍🎓 Estudante do CursoEmVideo e RocketSeat.
 - 💾 Atualmente estudando React.js e Node.js.
+- 💻 Cursando Analize e Desenvolvimento de Sistemas na FIAP
 
 <span style="color:">
 
-## 🎯 Metas para 2023
+## 🎯 Metas para 2024
 
 </span>
 
@@ -91,7 +92,7 @@ justify-content:center;
 ">
 
 <a href="https://www.linkedin.com/in/daniel-barros63/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:40px"/></a>
-<a href="mailto:barros263inf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:40px"/></a>
+<!--<a href="mailto:barros263inf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:40px"/></a>-->
 
 
 </div>
