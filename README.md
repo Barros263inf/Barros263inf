@@ -69,7 +69,6 @@ justify-content:center;
 gap:.5rem;
 display:flex;
 align-items:center;
-flex-flow:row nowrap;
 justify-content:center;
 ">
 
