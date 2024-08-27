@@ -68,13 +68,12 @@ justify-content:center;
 <div id="analytics" align="center" style="
 gap:.5rem;
 display:flex;
-flex-grow: 1;
 align-items:center;
 flex-flow:row nowrap;
 justify-content:center;
 ">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros263inf&layout=demo&show_icons=false&theme=radical" style="height:250px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barros263inf&show_icons=false&theme=radical" style="height:250px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Barros263inf&show_icons=true&theme=radical" style="height:250px"/>
 
 </div>
