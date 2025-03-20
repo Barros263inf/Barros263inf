@@ -26,7 +26,7 @@ Estudando programação nas horas livres e seguindo uma trilha para me tornar um
 
 <span style="color:">
 
-## 🎯 Metas para 2024
+## 🎯 Metas para 2025
 
 </span>
 
