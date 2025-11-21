@@ -33,6 +33,7 @@ justify-content:center;
 <div id="analytics" align="center" style="
 gap:.5rem;
 display:flex;
+flex-direction:row;
 align-items:center;
 justify-content:center;
 ">
