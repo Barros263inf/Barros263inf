@@ -6,40 +6,6 @@
 
 <br>
 
-<span style="color:">
-
-## 🤸 Sobre mim 🎸
-
-</span>
-
-<div id="about_me" style="text-align:justify">
-Olá! Tenho 24 anos, atualmente moro em São Paulo.
-
-Estudando programação nas horas livres e seguindo uma trilha para me tornar um desenvolvedor!
-</div>
-
-<br>
-
-- 👨‍🎓 Estudante do CursoEmVideo e RocketSeat.
-- 💾 Atualmente estudando React.js e Node.js.
-- 💻 Cursando Analize e Desenvolvimento de Sistemas na FIAP
-
-<span style="color:">
-
-## 🎯 Metas para 2025
-
-</span>
-
-<div>
-
-- [ ] Publicar projetos.
-- [ ] Adquirir experiência.
-- [ ] Aprimorar meu LinkedIn.
-
-</div>
-
-<br>
-
 ## 💻 Tecnologias
 
 <div id="my_technologies" align="center" style="
@@ -52,11 +18,10 @@ justify-content:center;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:80px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width:80px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="width:80px"/>
 
 </div>
 
